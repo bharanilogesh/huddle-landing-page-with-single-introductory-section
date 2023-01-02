@@ -24,4 +24,5 @@ html {
 
 body {
   background-attachment: var(--clr-white);
+  background-color: aqua;
 }
